@@ -1,0 +1,6 @@
+balise <em> pour mot en italic
+
+"gap" fonctionne avec display:flex 
+
+selectionner un enfant en particulier : frist child ()
+	
