@@ -3,4 +3,15 @@ balise <em> pour mot en italic
 "gap" fonctionne avec display:flex 
 
 selectionner un enfant en particulier : frist child ()
-	
+
+1 vw = 1% de largeur du viewport
+
+ecran 4k = moins de 3000px
+
+redimensionner car trop lourd à chargé et pxiels non exploité
+
+correction exercice maquette (section):
+rogner l'image au bonne dimension 
+redimensionner l'image en 1920 pixels de large
+
+
